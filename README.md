@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flappy Bird Clone**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **ungureanu.vlad19@gmail.com**
 
